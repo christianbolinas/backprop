@@ -7,7 +7,7 @@ This repository includes:
 1. accompanying unit and integration tests (haha lol),
 1. an ADAM optimizer, because tuning learning rates is for suckers,
 1. a simplified DataLoader-like class for easy batch generation,
-1. Keras-like interface to wrap all those, and
+1. PyTorch-like interface to wrap all those, and
 1. an overall driver to test classification accuracy on the MNIST dataset.
 
 For OpenAI/Anthropic/HRT/Optiver/JSC/etc recruiters with interesting opportunities: I can be reached at christianbolinas022 at gmail dot com.
